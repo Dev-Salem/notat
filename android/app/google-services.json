@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166576171484",
+    "project_id": "fir-go-a3bac",
+    "storage_bucket": "fir-go-a3bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166576171484:android:f14ebbdc8ae587e145c719",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_again"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166576171484-qq3f0147040j1ti1vqq0ft6kvc2ai4a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKJuRAMznbO8IaRwFvJuf7I1OJCOY6-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166576171484-qq3f0147040j1ti1vqq0ft6kvc2ai4a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
