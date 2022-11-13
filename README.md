@@ -38,7 +38,7 @@ samples, and guidance on mobile development
 
 ## Used Packages List:
 <details>
-<summary>Expand</summary>
+<summary>Expand/Collapse</summary>
 
 firebase_messaging: ^12.0.1 
 
