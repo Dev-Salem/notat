@@ -18,7 +18,7 @@ samples, and guidance on mobile development
 
 * creating, editing, and deleting notes
 
-* markdown editor that allows making highly customizble notes
+* markdown editor that allows making highly customizable notes
 
 * organizing notes in folders and more
 
@@ -29,15 +29,18 @@ samples, and guidance on mobile development
 <a href="https://ibb.co/Tkx1jsn"><img src="https://i.ibb.co/nbNBdFV/4-20221019-151648-0003.png" alt="4-20221019-151648-0003" border="0"></a>
 <a href="https://ibb.co/ZT8cxWs"><img src="https://i.ibb.co/GP2CRcw/3-20221019-151648-0002.png" alt="3-20221019-151648-0002" border="0"></a>
 
-## planned features 🌱
+## Planned features 🌱
 
 * data encryption
 * locking notes
 * creating and editing notes offline[1]
 ##### [1] due to a bug caused by firebase firestore, users are only able to create and edit notes online, [for more info](https://community.flutterflow.io/c/discuss-and-get-help/navigate-action-not-working-if-device-offline)
 
-## Used packages:
- firebase_messaging: ^12.0.1 
+## Used Packages List:
+<details>
+<summary>Expand</summary>
+
+firebase_messaging: ^12.0.1 
 
 uuid: ^3.0.6 
 
@@ -78,6 +81,7 @@ cloud_firestore: ^3.4.2
 firebase_auth: ^3.6.1 
 
 firebase_core: ^1.20.0 
+</details>
 
 ## Usage
 * clone the project
