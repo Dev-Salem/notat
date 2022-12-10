@@ -10,12 +10,6 @@ import 'package:flutter_application_again/screens/wrapper.dart';
 import 'package:flutter_application_again/utils/colors.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-/*
-Notat /نوتات: a simple taking notes app which was 
-developed by dev-Salem
-created Date: 2022 - 18th Aug 
-*/
-
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
