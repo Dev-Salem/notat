@@ -48,3 +48,4 @@ app.*.map.json
 
 #google service
 google-services.json
+android/app/google-services.json
